@@ -1,0 +1,2 @@
+../Core/Src/motor.c:8:6:motor_init	16	static
+../Core/Src/motor.c:13:9:motor_run	16	static

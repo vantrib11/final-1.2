@@ -1,0 +1,2 @@
+../Core/Src/motor.c:8:6:motor_init	1
+../Core/Src/motor.c:13:9:motor_run	7

@@ -1,0 +1,7 @@
+../Core/Src/debug_uart.c:24:6:LOG_Init	16	static
+../Core/Src/debug_uart.c:34:9:LOG_IsBusy	4	static
+../Core/Src/debug_uart.c:43:6:LOG_Print	24	static
+../Core/Src/debug_uart.c:80:6:LOG_Printf	16	static
+../Core/Src/debug_uart.c:144:6:HAL_UART_TxCpltCallback	16	static
+../Core/Src/debug_uart.c:152:6:trans_uart	40	static
+../Core/Src/debug_uart.c:159:6:toggle_test	8	static
